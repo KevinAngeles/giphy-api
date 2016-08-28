@@ -1,0 +1,36 @@
+figcaption span
+{
+	font-weight: bold;
+}
+.formBtn
+{
+	text-align: center;
+}
+.topics
+{
+	background-color: #eee;
+	border: 2px solid green;
+	display: inline-block;
+	height: 120px;
+	margin: 5px;
+	padding: 5px 10px;
+	text-align: center;
+}
+.topics p{
+	font-size: 14px;
+	line-height: 1.42857143;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.topics p span{
+	color: green;
+	font-weight: bold;
+}
+#inputs
+{
+	text-align: center;
+}
+#result figure
+{
+	display: inline-block;
+	margin: 5px;
+}
