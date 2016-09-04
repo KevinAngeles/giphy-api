@@ -20,7 +20,7 @@ $(document).on("ready",function(){
 
 	$("#divTopic").on("click", "button", function(ev){
 		ev.preventDefault();
-		var baseUrl = "http://api.giphy.com/v1/gifs/search";
+		var baseUrl = "https://api.giphy.com/v1/gifs/search";
 
 		var parameterApiKey = "api_key";
 		var parameterTopic = "q";
